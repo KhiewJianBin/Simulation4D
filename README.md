@@ -13,7 +13,7 @@
   No Installation Required. Just Git clone or direct download
 
 ## Usage
-  1. Run [Simulation4D.exe](https://github.com/KhiewJianBin/Simulation4D/blob/main/Simulation4D.exe) in VRFinal folder
+  1. Run [Simulation4D.exe](https://github.com/KhiewJianBin/Simulation4D/blob/main/Simulation4D.exe) in folder
 
 # Notes
 - Weekends are skips to the next monday.
