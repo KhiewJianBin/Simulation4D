@@ -7,7 +7,6 @@
 
 # Features
   1. Weekends are skips to the next monday.
-  2. Have keyboard support but is hard to use (via VRTK)
   
 # Install
   No Installation Required. Just Git clone or direct download
@@ -16,6 +15,5 @@
   1. Run [Simulation4D.exe](https://github.com/KhiewJianBin/Simulation4D/blob/main/Simulation4D.exe) in folder
 
 # Notes
-- Weekends are skips to the next monday.
 - Only has animation of predefined schedule
 - UI is appearance only
