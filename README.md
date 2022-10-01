@@ -3,7 +3,7 @@
   
   Trying to replicate Fuzor 4D Simulation into Unity.
 
-![image](https://user-images.githubusercontent.com/5699978/193414169-4fa8d84b-da37-4dec-9349-3a80f1b562aa.png)
+ <img src="https://user-images.githubusercontent.com/5699978/193414169-4fa8d84b-da37-4dec-9349-3a80f1b562aa.png">
 
 # Features
   1. Weekends are skips to the next monday.
