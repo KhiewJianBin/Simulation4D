@@ -1,2 +1,3 @@
+MIT License
 
-Copyright (C) 2022 Khiew Jian Bin
+Copyright (c) 2016 Khiew Jian Bin
